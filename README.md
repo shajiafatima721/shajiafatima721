@@ -1,41 +1,18 @@
-💫 About Me:
-👋 Hi, I’m [Shajia Fatima]
-
-🎯 Aspiring Data Scientist | Python Developer | Problem Solver
-
-I am passionate about turning data into actionable insights and building real-world solutions using data science and analytics. Currently, I am focused on strengthening my skills in Python, statistics, machine learning deep learning, gen ai and agentic ai while working on hands-on projects.
-
-🚀 What I’m Doing
-- 📊 Learning Data Science step-by-step (Statistics → Python → ML → DL → Projects)
-- 📈 Working on real-world datasets and EDA projects
-- 📉 Exploring tools like Power BI / Tableau for data visualization
-- 🧠 Improving problem-solving and logical thinking
+# 💫 About Me:
+👋 Hi, I'm [Shajia Fatima]<br><br>🎯 Aspiring Data Scientist | Python Developer | Problem Solver  <br><br>I am passionate about turning data into actionable insights and building real-world solutions using data science and analytics. Currently, I am focused on strengthening my skills in Python, statistics, machine learning deep learning, gen ai and agentic ai while working on hands-on projects.<br><br>🚀 What I'm Doing<br>- 📊 Learning Data Science step-by-step (Statistics → Python → ML → DL → Projects)<br>- 📈 Working on real-world datasets and EDA projects<br>- 📉 Exploring tools like Power BI / Tableau for data visualization<br>- 🧠 Improving problem-solving and logical thinking<br><br><br>🛠️ Tech Stack<br>Languages: Python, SQL  <br>Libraries: Pandas, NumPy, Matplotlib, Seaborn  <br>Tools: Jupyter Notebook, Git, GitHub  <br>Concepts: Statistics, Data Analysis, Machine Learning Basics  <br><br>🌱 Goals<br>- Become a skilled Data Scientist  <br>- Build impactful real-world projects  <br>- Contribute to open-source  <br><br>⭐ *Always learning, always growing*
 
 
-🛠️ Tech Stack
-Languages: Python, SQL
-Libraries: Pandas, NumPy, Matplotlib, Seaborn
-Tools: Jupyter Notebook, Git, GitHub
-Concepts: Statistics, Data Analysis, Machine Learning Basics
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/cyberworrio.cw) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shajia fatima) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shajiafatima721@gmail.com) 
 
-🌱 Goals
-- Become a skilled Data Scientist
-- Build impactful real-world projects
-- Contribute to open-source
-
-⭐ Always learning, always growing
-
-🌐 Socials:
-Instagram [LinkedIn](https://linkedin.com/in/shajia fatima) email
-
-💻 Tech Stack:
-JavaScript HTML5 PHP Python AWS Google Cloud Oracle Netlify Vercel Angular.js Express.js FastAPI Bootstrap NodeJS Next JS Vue.js Streamlit TailwindCSS Keras Matplotlib mlflow NumPy Pandas Plotly PyTorch scikit-learn Scipy TensorFlow Git GitHub
-
-📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=shajia fatima&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-
-![](https://streak-stats.demolab.com/?user=shajia fatima&theme=dark&hide_border=false)
-
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=shajia fatima&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=shajia fatima&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=shajia fatima&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![](https://komarev.com/ghpvc/?username=shajia fatima&icon=0&color=0)
+---
+[![](https://komarev.com/ghpvc/?username=shajia fatima&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
